@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @renanne7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hello, I’m Rene.
+- 👀 I’m interested in anything involving all kinds of data.
+- 🌱 I’m currently working on building a predictive fitness tracker.
+- 💞️ I’m looking to collaborate on anything that brings a positive change. 
+- 📫 You can reach me at https://www.linkedin.com/in/rene-salih-335974164/
 
 <!---
 renanne7/renanne7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
