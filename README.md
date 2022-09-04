@@ -1,6 +1,5 @@
 - 👋 Hello, I’m Rene.
-- 👀 I’m interested in all things data.
-- 🌱 I’m always learning something new, like making ginger tea.
+- 🌱 Here I will add new repos for anything interesting I work on.
 - 📫 You can reach me at https://www.linkedin.com/in/rene-salih-335974164/
 
 <!---
